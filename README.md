@@ -1,18 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage!
 
-You can use the [editor on GitHub](https://github.com/DonghanHu/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Donghan Hu, I am a first year Ph.D. student in Conputer Science department in Virginia Tech, VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by Dr. Sang Won lee. I received my bachelor degree in 2017 at Northeast University in Shenyang, China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, my research area is Human Computer Interactino(HCI). Currently, my research project is helping people resume their unfinished tasks and retrieve previous working context quickly on computers. Tasks resumptions and working context retrieval are two essential problems for people who use computers for daily works, which take people lots time about recalling and searching. 
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ScreenTrack: Using Visual History for Self-trackingComputer Activities and Retrieving Working Context
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DonghanHu/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Upcoming Travel
+Oct 20th - Oct 24th: UIST 2019, New Orlearn, LA
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+E-mail: hudh0827@vt.edu
