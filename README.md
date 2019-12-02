@@ -1,4 +1,7 @@
 ![ScreenShot](https://github.com/DonghanHu/Homepage/blob/master/puffin.jpeg)
+<p>
+    <img src="https://github.com/DonghanHu/Homepage/blob/master/puffin.jpeg" width="220" height="240" />
+</p>
 ## Welcome to my homepage!
 
 Hi, I am Donghan Hu, I am a first year Ph.D. student in Conputer Science department in Virginia Tech, VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by Dr. Sang Won lee. I received my bachelor degree in 2017 at Northeast University in Shenyang, China.
