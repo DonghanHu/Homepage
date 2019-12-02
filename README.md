@@ -1,4 +1,3 @@
-![text](https://github.com/DonghanHu/Homepage/blob/master/puffin.jpeg)
 ![ScreenShot](https://github.com/DonghanHu/Homepage/blob/master/puffin.jpeg)
 ## Welcome to my homepage!
 
