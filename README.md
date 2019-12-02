@@ -19,5 +19,6 @@ Currently, my research area is Human Computer Interactino(HCI). My research proj
 Oct 20th - Oct 24th: UIST 2019, New Orlearn, LA
 
 ### Support or Contact
-Address: 2202 Kraft Drive, Knowledge Works II Blacksburg, VA 24060
+Address: 2202 Kraft Drive, Knowledge Works II Blacksburg, VA 24060<br/>
+
 E-mail: hudh0827@vt.edu
