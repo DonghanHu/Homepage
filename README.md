@@ -10,7 +10,7 @@ Currently, my research area is Human Computer Interactino(HCI). My research proj
 
 ### Publications
 
-[ScreenTrack: Using Visual History for Self-trackingComputer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110)(2019 UIST poster)<br/>
+[ScreenTrack: Using Visual History for Self-trackingComputer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110) (2019 UIST poster)<br/>
 
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master thesis)
 
