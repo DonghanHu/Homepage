@@ -11,6 +11,7 @@ Currently, my research area is Human Computer Interactino(HCI). My research proj
 ### Publications
 
 [ScreenTrack: Using Visual History for Self-trackingComputer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110)(2019 UIST poster)
+
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master thesis)
 
 
@@ -18,5 +19,5 @@ Currently, my research area is Human Computer Interactino(HCI). My research proj
 Oct 20th - Oct 24th: UIST 2019, New Orlearn, LA
 
 ### Support or Contact
-
+Address: 2202 Kraft Drive, Knowledge Works II Blacksburg, VA 24060
 E-mail: hudh0827@vt.edu
