@@ -1,6 +1,6 @@
 
 <p>
-    <img src="https://github.com/DonghanHu/Homepage/blob/master/puffin.jpeg" width="220" height="240" />
+    <img src="puffin.jpeg" width="220" height="240" />
 </p>
 ## Welcome to my homepage!
 
