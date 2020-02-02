@@ -4,7 +4,7 @@
 </p>
 ## Welcome to my homepage!
 
-Hi, I am Donghan Hu, I am a first year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/), VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). I received my bachelor degree in 2017 at [Northeastern University](https://www.neu.edu.cn/) in Shenyang, China.
+Hi, I am Donghan Hu, I am a first year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/), VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). I received my bachelor degree in 2017 at [Northeastern University](https://http://english.neu.edu.cn/) in Shenyang, China.
 
 Currently, my research area is Human Computer Interactino(HCI). My research project is helping people resume their unfinished tasks and retrieve previous working context quickly on computers. Tasks resumptions and working context retrieval are two essential problems for people who use computers for daily works, which take people lots time about recalling and searching. 
 
