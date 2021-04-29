@@ -4,11 +4,14 @@
 </p>
 ## Welcome to my homepage!
 
-Hi, I am Donghan Hu, I am a first year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/), VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). I received my bachelor degree in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
+Hi, I am Donghan Hu, I am a second year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/), VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). I received my bachelor degree in Computer Science 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
-Currently, my research area is Human Computer Interactino(HCI). My research project is helping people resume their unfinished tasks and retrieve previous working context quickly on computers. Tasks resumptions and working context retrieval are two essential problems for people who use computers for daily works, which take people lots time about recalling and searching. 
+Currently, my research area is Human Computer Interactino (HCI). My research project is helping people resume their unfinished tasks and retrieve previous working context quickly on computers. Tasks resumptions and working context retrieval are two essential problems for people who use computers for daily works, which take people lots time about recalling and searching. 
 
 ### Publications
+[Scrapbook: Screenshot-based Bookmark for Effective Curation of Digital Resources.](https://dl.acm.org/doi/abs/10.1145/3379350.3416181)(2020 UIST poster)<br/>
+
+[ScreenTrack: Using a Visual History of a Computer Screen to Retrieve Documents and Web Pages.](https://dl.acm.org/doi/abs/10.1145/3313831.3376753)(2020 CHI paper)<br/>
 
 [ScreenTrack: Using Visual History for Self-trackingComputer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110) (2019 UIST poster)<br/>
 
@@ -16,7 +19,7 @@ Currently, my research area is Human Computer Interactino(HCI). My research proj
 
 
 ### Upcoming Travel
-Oct 20th - Oct 24th: UIST 2019, New Orlearn, LA
+Definitely no travel plan at this moment! Stay home and stay safe.
 
 ### Support or Contact
 Address: 2202 Kraft Drive, Knowledge Works II Blacksburg, VA 24060<br/>
