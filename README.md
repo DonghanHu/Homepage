@@ -1,8 +1,10 @@
 
 <p>
-    <img src="puffin.jpeg" width="220" height="220" />
+    <img src="logos.png" width="700" height="220" />
 </p>
-## Welcome to my homepage!
+## Hello, welcome to my homepage!
+
+### About Me
 
 Hi, I am Donghan Hu, I am a second year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/), VA. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). I received my bachelor degree in Computer Science 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
@@ -17,6 +19,13 @@ Currently, my research area is Human Computer Interactino (HCI). My research pro
 
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master thesis)
 
+### Research Projects
+
+#### ScreenTrack
+
+#### Scrapbook
+
+#### AR Collaboration with Bare Hands
 
 ### Upcoming Travel
 Definitely no travel plan at this moment! Stay home and stay safe.
