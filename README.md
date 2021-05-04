@@ -13,7 +13,7 @@
 Hi there, I am Donghan Hu, a second year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/) since 2019. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor degree in Computer Science 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
 
-Currently, my research area is Human-Computer Interactino (HCI) and I am being advised by Dr. Sang Won Lee. He is REALLY a great advisor and professor. My research projects lies in helping people reconstruct their mental context and retrieve digital resources (e.g., websites, docuemtns, and applications) for their previous works. Tasks resumptions and working context retrieval are two essential problems, which take people lots time about recalling and searching. To solve these problems, I am utilizing screenshot-based technologly. Besides, I am interested in other topics in HCI, like Augmented Reality(AR) and communications. Please see my projects and publications for further information. For contact, please see the bottom of this page.
+Currently, my research area is Human-Computer Interactino (HCI) and I am being advised by Dr. Sang Won Lee. He is REALLY a great advisor and professor. My research projects lies in helping people reconstruct their mental context and retrieve digital resources (e.g., websites, docuemtns, and applications) for their previous works. Tasks resumptions and working context retrieval are two essential problems, which take people lots time about recalling and searching. To solve these problems, I am utilizing screenshot-based technologly. Besides, I am interested in other topics in HCI, like Augmented Reality (AR) and communications. Please see my projects and publications for further information. For contact, please see the bottom of this page.
 
 
 ### Publications
@@ -30,11 +30,6 @@ Currently, my research area is Human-Computer Interactino (HCI) and I am being a
 #### (1): ScreenTrack
 Computers are used for various purposes, so frequent context switching is inevitable. Retrieving the documents, files, and web pages that have been used for a task can be a challenge. While amny applications provide a history of recent documents for users to resume work, this is not sufficient to retrieve all the digital resources relevant to a given primary document. The histories currently available do not take into account the complex dependencies among resources across applications. To address this problem, we tested the idea of using a visual history of a computer screen to retrieve digital resources within a few days of their use through the development of Scrapbook. Scrapbook is software that captures screenshots of a computer at regular intervals. It then generates a time-lapse video from the captured screenshots and lets users retrieve a recently opened document or web page from a screenshot after recognizing the resource by its appearance.
 <br/><br/> 
-![](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI)
-[![Watch the video]()](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI)
-<video align="right" width="150" height="150" controls>
-  <source src="https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI" type="video/mp4">
-</video>
 [![Watch the video](http://img.youtube.com/vi/E97eCIbg4L0/0.jpg)](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI)
 <br/><br/> 
 
