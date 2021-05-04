@@ -35,7 +35,7 @@ Computers are used for various purposes, so frequent context switching is inevit
 <video align="right" width="150" height="150" controls>
   <source src="https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI" type="video/mp4">
 </video>
-[![Watch the video](http://img.youtube.com/vi/E97eCIbg4L0/0.jpg)](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI "RMI Fibonacci Java")
+[![Watch the video](http://img.youtube.com/vi/E97eCIbg4L0/0.jpg)](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI)
 <br/><br/> 
 
 #### (2): AR Collaboration with Bare Hands
