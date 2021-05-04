@@ -30,6 +30,7 @@ Currently, my research area is Human-Computer Interactino (HCI) and I am being a
 #### (1): ScreenTrack
 Computers are used for various purposes, so frequent context switching is inevitable. Retrieving the documents, files, and web pages that have been used for a task can be a challenge. While amny applications provide a history of recent documents for users to resume work, this is not sufficient to retrieve all the digital resources relevant to a given primary document. The histories currently available do not take into account the complex dependencies among resources across applications. To address this problem, we tested the idea of using a visual history of a computer screen to retrieve digital resources within a few days of their use through the development of Scrapbook. Scrapbook is software that captures screenshots of a computer at regular intervals. It then generates a time-lapse video from the captured screenshots and lets users retrieve a recently opened document or web page from a screenshot after recognizing the resource by its appearance.
 <br/><br/> 
+![](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI)
 [![Watch the video]()](https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI)
 <video align="right" width="150" height="150" controls>
   <source src="https://www.youtube.com/watch?v=E97eCIbg4L0&ab_channel=ACMSIGCHI" type="video/mp4">
