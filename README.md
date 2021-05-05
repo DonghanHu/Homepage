@@ -41,7 +41,9 @@ In many collaborative tasks, the need for joint attention arises when one of the
 
 #### (3): Scrapbook
 Modern users typically open multiple software, websites, and documents for daily tasks. Retrieving previously used digital resources, such as web pages and documents, for knowledge workers is inevitable, but can be time-consuming. People may fail to remember where the resource is. In addition, sometimes, users need to retrieve digital resources across multiple applications to resume a computing task. However, the current methods - bookmarks and file systems - for curating such resources are limited in their capacity and dispersed over multiple applications.  To address the above problems, we test the idea of curating digital resources by developing Scrapbook, a software that allows users to curate digital resources with screenshots. Scrapbook allows users to take a screenshot of their computer screen and stores metadata of captured applications in the screenshot. Later, users can utilize multimodal (visual and textual) information to retrieve information that they want to recall or to restore the working context of a certain task. 
-
+<p align="center">
+    <img src="Detailed Window.png" width="700" height="250" />
+</p>
 
 
 ### Upcoming Travel & Conference
