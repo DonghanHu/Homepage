@@ -2,7 +2,6 @@
 <p>
     <img src="logos.png" width="700" height="160" />
 </p>
-<br/><br/> 
 ## Hello, welcome to my homepage!
 
 ### About Me
@@ -10,10 +9,10 @@
     <img src="photo.JPG" width="220" height="300" />
 </p>
 
-Hi there, I am Donghan Hu, a second year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/) since 2019. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor degree in Computer Science 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
+Hi there, my name is Donghan Hu from China, a second year Ph.D. student in Conputer Science department in [Virginia Tech](https://vt.edu/) since 2019. I received my Master degree in Computer Sceience in 2019 at Virginia Tech, advisored by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor degree in Computer Science 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
 
-Currently, my research area is Human-Computer Interactino (HCI) and I am being advised by Dr. Sang Won Lee. He is REALLY a great advisor and professor. My research projects lies in helping people reconstruct their mental context and retrieve digital resources (e.g., websites, docuemtns, and applications) for their previous works. Tasks resumptions and working context retrieval are two essential problems, which take people lots time about recalling and searching. To solve these problems, I am utilizing screenshot-based technologly. Besides, I am interested in other topics in HCI, like Augmented Reality (AR) and communications. Please see my projects and publications for further information. For contact, please see the bottom of this page.
+Currently, my research area is Human-Computer Interactino (HCI) and I am being advised by Dr. Sang Won Lee. He is REALLY a great advisor and professor. Our HCI lab calls "[Echolab](https://echolab.cs.vt.edu)". Our ultimate goal is to understand and create ways to foster empathic interaction among people using computational systems. My research projects lies in helping people reconstruct their mental context and retrieve digital resources (e.g., websites, docuemtns, and applications) for their previous works. Tasks resumptions and working context retrieval are two essential problems, which take people lots time about recalling and searching. To solve these problems, I am utilizing screenshot-based technologly. Besides, I am interested in other topics in HCI, like Augmented Reality (AR) and communications. Please see my projects and publications for further information. For contact, please see the bottom of this page.
 
 
 ### Publications
@@ -45,10 +44,19 @@ Modern users typically open multiple software, websites, and documents for daily
     <img src="Detailed Window.png" width="700" height="250" />
 </p>
 
+### Previous Experience
+**GTA:** Network Architecture Programming (CS4254). Deployed and maintained network environment to simulate various conditions. Graded assignments and exams. Hold TA office hour to solve students' problems. <br/>
+**GRA:** (1): Developed and tested software to help modern knowledge workers enhance productivity. Conducted field study to validate research contribution. (2): Built a website to visualize 4D data with parsed vtk files. Transferred vtk files to json files in Python and implemented interactions between users and projected 4D models. <\br>
+**Internship: ** Social Smart IT Company. Led deployment of web servers with features on  local network based on company's specific requirements. Designed and coded websites' frameworks and functionalities. Translated websites' content for international users. <br/>
 
 ### Upcoming Travel & Conference
-Definitely no travel plan at this moment! Stay home and stay safe.
+Definitely no travel plan at this moment! Stay home and stay safe.<br/>
 CHI 2021: May 8-13, 2021
+
+### Personal Interests
+Video games, League of Legends, badminton, and drum. <br/>
+By the way, say hi to my cats!<br/>
+
 
 
 ### Support or Contact
