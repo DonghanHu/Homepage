@@ -45,17 +45,20 @@ Modern users typically open multiple software, websites, and documents for daily
 </p>
 
 ### Previous Experience
-**GTA:** Network Architecture Programming (CS4254). Deployed and maintained network environment to simulate various conditions. Graded assignments and exams. Hold TA office hour to solve students' problems. <br/>
-**GRA:** (1): Developed and tested software to help modern knowledge workers enhance productivity. Conducted field study to validate research contribution. (2): Built a website to visualize 4D data with parsed vtk files. Transferred vtk files to json files in Python and implemented interactions between users and projected 4D models. <\br>
+**GTA:** Network Architecture Programming (CS 4254). Deployed and maintained network environment to simulate various conditions. Graded assignments and exams. Hold TA office hour to solve students' problems. <br/>
+**GRA:** (1): Developed and tested software to help modern knowledge workers enhance productivity. Conducted field study to validate research contribution. (2): Built a website to visualize 4D data with parsed vtk files. Transferred vtk files to json files in Python and implemented interactions between users and projected 4D models. <br\>
 **Internship: ** Social Smart IT Company. Led deployment of web servers with features on  local network based on company's specific requirements. Designed and coded websites' frameworks and functionalities. Translated websites' content for international users. <br/>
 
 ### Upcoming Travel & Conference
 Definitely no travel plan at this moment! Stay home and stay safe.<br/>
-CHI 2021: May 8-13, 2021
+**CHI 2021 (online): May 8-13, 2021**
 
 ### Personal Interests
 Video games, League of Legends, badminton, and drum. <br/>
 By the way, say hi to my cats!<br/>
+<p align="center">
+    <img src="cats.JPG" width="450" height="450" />
+</p>
 
 
 
