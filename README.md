@@ -47,7 +47,7 @@ Modern users typically open multiple software, websites, and documents for daily
 ### Previous Experience
 **GTA:** Network Architecture Programming (CS 4254). Deployed and maintained network environment to simulate various conditions. Graded assignments and exams. Hold TA office hour to solve students' problems. <br/>
 **GRA:** (1): Developed and tested software to help modern knowledge workers enhance productivity. Conducted field study to validate research contribution. (2): Built webpages to visualize 4D models from vtk files or parsed json files. <br/>
-**Internship:** Social Smart IT Company. Led deployment of web servers with features on  local network based on company's specific requirements. Designed and coded websites' frameworks and functionalities. Translated websites' content for international users. <br/>
+**Internship:** Social Smart IT Company. Led deployment of web servers on local network. Designed and coded websites' frameworks and functionalities. Translated websites' content for international users. <br/>
 
 ### Upcoming Travel & Conference
 Definitely no travel plan at this moment! Stay home and stay safe.<br/>
