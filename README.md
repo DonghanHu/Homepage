@@ -12,7 +12,7 @@ Hi there, my name is Donghan Hu from China, a second year Ph.D. student in Conpu
 Currently, my research area is Human-Computer Interactino (HCI) and I am being advised by Dr. Sang Won Lee. He is REALLY a great advisor and professor. Our HCI lab calls "[Echolab](https://echolab.cs.vt.edu)". Our ultimate goal is to understand and create ways to foster empathic interaction among people using computational systems. My research projects lies in helping people reconstruct their mental context and retrieve digital resources (e.g., websites, docuemtns, and applications) for their previous works. Tasks resumptions and working context retrieval are two essential problems, which take people lots time about recalling and searching. To solve these problems, I am utilizing screenshot-based technologly. Besides, I am interested in other topics in HCI, like Augmented Reality (AR) and communications. Please see my projects and publications for further information. For contact, please see the bottom of this page. <br/>
 
 <p align="center">
-    <img src="3in1.JPG" width="450" height="550" />
+    <img src="3in1.JPG" width="450" height="580" />
 </p>
 
 
