@@ -20,7 +20,7 @@ Currently, my research area is Human-Computer interaction (HCI), and Dr. Sang Wo
 
 
 ### Publications
-[Scrapbook: Screenshot-Based Bookmarks for Effective Digital Resource Curation across Applications.](2022 UIST Paper)<br/>
+[Scrapbook: Screenshot-Based Bookmarks for Effective Digital Resource Curation across Applications.](https://arxiv.org/abs/2209.12318)(2022 UIST Paper)<br/>
 
 [Scrapbook: Screenshot-based Bookmark for Effective Curation of Digital Resources.](https://dl.acm.org/doi/abs/10.1145/3379350.3416181)(2020 UIST Poster)<br/>
 
