@@ -4,14 +4,14 @@
 </p>
 ## Hello, welcome to my homepage!
 
-Looking for an internship for Summer 2023.
+Looking for a full-time job in 2024.
 
 ### About Me
 
 Hi there, my name is Donghan Hu from China, a fourth-year Ph.D. student in the Computer Science department at [Virginia Tech](https://vt.edu/). I received my Master's degree in Computer science in 2019 at Virginia Tech, advised by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
 
-Currently, my research area is Human-Computer interaction (HCI), and Dr. Sang Won Lee is advising me. He is REALLY a great and warm-hearted advisor who is generous to give his time to help us with valuable advice. Our HCI lab calls "[Echolab](https://echolab.cs.vt.edu)" and we are targeting to understand and create novel methods to foster empathic interaction among people using computational systems. My research project lies in helping modern knowledge workers reconstruct their mental context and retrieve digital resources (e.g., websites, documents, and applications) to enhance their working productivity via self-tracking and self-reflection. Tasks resumptions and working context retrieval are two fundamental problems that take people lots of time to recall and search. To solve these problems, I am utilizing screenshot-based technology, self-reflection models, and metadata mixed with visual cues and textual cues. Please see my projects and publications for further information. For contact, please see the bottom of this page. <br/>
+Currently, my research area is Human-Computer interaction (HCI), and Dr. Sang Won Lee is advising me. He is REALLY a great and warm-hearted advisor who is generous to give his time to help us with valuable advice. Our HCI lab calls "[Echolab](https://echolab.cs.vt.edu)" and we are targeting to understand and create novel methods to foster empathic interaction among people using computational systems. My research project lies in helping modern knowledge workers reconstruct their mental context and retrieve digital resources (e.g., websites, documents, and applications) to enhance their working productivity via self-tracking and self-reflection. Task resumptions and working context retrieval are two fundamental problems that take people lots of time to recall and search. Besides, I concentrate on empowering individuals by leveraging and exploring personal data. To solve these problems, I am utilizing screenshot-based technology, self-reflection models, and metadata mixed with visual cues and textual cues. Please see my projects and publications for further information. For contact, please see the bottom of this page. <br/>
 
 <p align="center">
     <img src="3in1.JPG" width="450" height="580" />
@@ -54,19 +54,18 @@ Modern users typically open multiple software, websites, and documents for daily
 
 ### Previous Experience
 **GTA & GRA** Virginia Tech. (Since 2019 Aug)<br/>
-Graduate assistant for Network Architecture Programming (CS 4254), Fundamentals of Information Security (CS 5560), Intro to Programming in Python (CS1064), and Software Design & Data Structures (CS2114) <br/>
+Graduate assistant for Network Architecture Programming (CS 4254), Fundamentals of Information Security (CS 5560), Intro to Programming in Python (CS1064), Intro GUI Programming/Graphics (CS3744), and Software Design & Data Structures (CS2114) <br/>
 Developed and tested applications to help modern knowledge workers enhance working productivity. Conducted in-lab & field studies to validate research contribution.<br/> 
 
 **Internship:** Social Smart IT Company. (2016 June - Aug) <br/>
-Set up and deployed company servers in Java for testing and launching services, maintaining servers, and debugging.<br/>
-Led team to design and develop websites' frameworks based on customized requirements. Scripted web pages' content and implemented corresponding functionalities for customers on the world-wide scope. <br/>
+Configured and deployed company servers for the purpose of testing, running, and launching multiple services, as well as maintaining and troubleshooting server-related issues. Implemented data structures and solutions with higher-quality performance on the back end. Guided a team in designing and developing website frameworks tailored to meet company requirements. Scripted and programmed website user interfaces and customized functionalities for a global customer base. New-launched website layout and content in Chinese and English languages contributed to a 13.6 % increase in daily visitors.. <br/>
 
 ### Upcoming Travel & Conference
 
-**UIST 2022: Oct 30 - Nov 3rd, 2023**
+**UIST 2023: Oct 30 - Nov 3rd, 2023**
 
 ### Personal Interests
-Bdminton, snowboarding, swimming, video games, and pixel arts. <br/>
+Badminton, snowboarding, swimming, video games, and pixel arts. <br/>
 By the way, say hi to my cats (Matrix, Mocha, and Vector)!<br/>
 <p align="center">
     <img src="cats.JPG" width="450" height="450" />
