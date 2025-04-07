@@ -1,4 +1,4 @@
-]
+
 ## Hello, welcome to my homepage!
 
 Looking for a full-time job in 2025.
