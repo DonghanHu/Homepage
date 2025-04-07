@@ -4,14 +4,14 @@
 </p>
 ## Hello, welcome to my homepage!
 
-Looking for a full-time job in 2024.
+Looking for a full-time job in 2025.
 
 ### About Me
 
-Hi there, my name is Donghan Hu from China, a fourth-year Ph.D. student in the Computer Science department at [Virginia Tech](https://vt.edu/). I received my Master's degree in Computer science in 2019 at Virginia Tech, advised by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
+Hi there, my name is Donghan Hu from China, a fourth-year Ph.D. student in the Computer Science department at [Virginia Tech](https://vt.edu/). I received my Master's degree in Computer Science in 2019 at Virginia Tech, advised by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
 
-Currently, my research area is Human-Computer interaction (HCI), and Dr. Sang Won Lee is advising me. He is REALLY a great and warm-hearted advisor who is generous to give his time to help us with valuable advice. Our HCI lab calls "[Echolab](https://echolab.cs.vt.edu)" and we are targeting to understand and create novel methods to foster empathic interaction among people using computational systems. My research project lies in helping modern knowledge workers reconstruct their mental context and retrieve digital resources (e.g., websites, documents, and applications) to enhance their working productivity via self-tracking and self-reflection. Task resumptions and working context retrieval are two fundamental problems that take people lots of time to recall and search. Besides, I concentrate on empowering individuals by leveraging and exploring personal data. To solve these problems, I am utilizing screenshot-based technology, self-reflection models, and metadata mixed with visual cues and textual cues. Please see my projects and publications for further information. For contact, please see the bottom of this page. <br/>
+Currently, my research area is Human-Computer interaction (HCI), and Dr. Sang Won Lee is advising me. He is REALLY a great and warm-hearted advisor who is generous to give his time to help us with valuable advice. Our HCI lab is called "[Echolab](https://echolab.cs.vt.edu)" and we are targeting to understand and create novel methods to foster empathic interaction among people using computational systems. My research project lies in helping modern knowledge workers reconstruct their mental context and retrieve digital resources (e.g., websites, documents, and applications) to enhance their working productivity via self-tracking and self-reflection. Task resumptions and working context retrieval are two fundamental problems that take people lots of time to recall and search. Besides, I concentrate on empowering individuals by leveraging and exploring personal data. To solve these problems, I am utilizing screenshot-based technology, self-reflection models, and metadata mixed with visual cues and textual cues. Please see my projects and publications for further information. For contact, please see the bottom of this page. <br/>
 
 <p align="center">
     <img src="3in1.JPG" width="450" height="580" />
@@ -28,9 +28,9 @@ Currently, my research area is Human-Computer interaction (HCI), and Dr. Sang Wo
 
 [ScreenTrack: Using a Visual History of a Computer Screen to Retrieve Documents and Web Pages.](https://dl.acm.org/doi/abs/10.1145/3313831.3376753)(2020 CHI Paper)<br/>
 
-[ScreenTrack: Using Visual History for Self-trackingComputer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110) (2019 UIST Poster)<br/>
+[ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110) (2019 UIST Poster)<br/>
 
-[ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master Thesis)
+[ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master's Thesis)
 
 ### Research Projects
 
@@ -47,7 +47,7 @@ In many collaborative tasks, the need for joint attention arises when one of the
 </p>
 
 #### (3): Scrapbook
-Modern users typically open multiple software, websites, and documents for daily tasks. Retrieving previously used digital resources, such as web pages and documents, for knowledge workers is inevitable but can be time-consuming. People may fail to remember where the resource is. In addition, sometimes, users need to retrieve digital resources across multiple applications to resume a computing task. However, the current methods - bookmarks and file systems - for curating such resources are limited in their capacity and dispersed over multiple applications. To address the above problems, we test the idea of curating digital resources by developing Scrapbook, a software that allows users to curate digital resources with screenshots. Scrapbook enables users to take a screenshot of their computer screen and stores metadata of captured applications in the screenshot. Later, users can utilize multimodal (visual and textual) information to retrieve the information they want to recall or restore the working context of a certain task. 
+Modern users typically open multiple software programs, websites, and documents for daily tasks. Retrieving previously used digital resources, such as web pages and documents, for knowledge workers is inevitable but can be time-consuming. People may fail to remember where the resource is. In addition, sometimes, users need to retrieve digital resources across multiple applications to resume a computing task. However, the current methods - bookmarks and file systems - for curating such resources are limited in their capacity and dispersed over multiple applications. To address the above problems, we test the idea of curating digital resources by developing Scrapbook, a software that allows users to curate digital resources with screenshots. Scrapbook enables users to take a screenshot of their computer screen and stores metadata of captured applications in the screenshot. Later, users can utilize multimodal (visual and textual) information to retrieve the information they want to recall or restore the working context of a certain task. 
 <p align="center">
     <img src="Detailed Window.png" width="700" height="250" />
 </p>
@@ -58,14 +58,14 @@ Graduate assistant for Network Architecture Programming (CS 4254), Fundamentals 
 Developed and tested applications to help modern knowledge workers enhance working productivity. Conducted in-lab & field studies to validate research contribution.<br/> 
 
 **Internship:** Social Smart IT Company. (2016 June - Aug) <br/>
-Configured and deployed company servers for the purpose of testing, running, and launching multiple services, as well as maintaining and troubleshooting server-related issues. Implemented data structures and solutions with higher-quality performance on the back end. Guided a team in designing and developing website frameworks tailored to meet company requirements. Scripted and programmed website user interfaces and customized functionalities for a global customer base. New-launched website layout and content in Chinese and English languages contributed to a 13.6 % increase in daily visitors.. <br/>
+Configured and deployed company servers for the purpose of testing, running, and launching multiple services, as well as maintaining and troubleshooting server-related issues. Implemented data structures and solutions with higher-quality performance on the back end. Guided a team in designing and developing website frameworks tailored to meet company requirements. Scripted and programmed website user interfaces and customized functionalities for a global customer base. New-launched website layout and content in Chinese and English languages contributed to a 13.6 % increase in daily visitors. <br/>
 
 ### Upcoming Travel & Conference
 
 **UIST 2023: Oct 30 - Nov 3rd, 2023**
 
 ### Personal Interests
-Badminton, snowboarding, swimming, video games, and pixel arts. <br/>
+Badminton, snowboarding, swimming, video games, and pixel art. <br/>
 By the way, say hi to my cats (Matrix, Mocha, and Vector)!<br/>
 <p align="center">
     <img src="cats.JPG" width="450" height="450" />
@@ -74,6 +74,5 @@ By the way, say hi to my cats (Matrix, Mocha, and Vector)!<br/>
 
 
 ### Support or Contact
-Address: 2202 Kraft Drive, Knowledge Works II Blacksburg, VA 24060<br/>
 
 E-mail: hudh0827@vt.edu
