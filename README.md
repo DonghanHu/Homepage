@@ -1,11 +1,11 @@
-
+]
 ## Hello, welcome to my homepage!
 
 Looking for a full-time job in 2025.
 
 ### About Me
 
-Hi there, my name is Donghan Hu, a postdoc in the Electrical & Computer Engineering Dept and the Center for Urban Science + Progress at [New York University](https://engineering.nyu.edu/). I am working with Professor Danny Yuxing Huang at [mLab](https://mlab.engineering.nyu.edu/). I received my PhD and Master's degree in Computer Science in 2019 at Virginia Tech, advised by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
+Hi there, my name is Donghan Hu, a postdoc in the Electrical & Computer Engineering Dept and the Center for Urban Science + Progress at [New York University](https://engineering.nyu.edu/). I am working with Professor Danny Yuxing Huang at [mLab](https://mlab.engineering.nyu.edu/). I received my PhD and Master's degree in Computer Science in 2019 at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Sang Won lee](https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
 
 My research focuses on Human-Computer Interaction (HCI) and Privacy & Security. I am currently working on projects that explore how personal data and network traffic (e.g., digital interactions across cross-platform devices) can be used to support knowledge workers—enhancing productivity, promoting self-awareness in mental and physical health, and enabling more personalized user experiences. A key aspect of my work involves empowering individuals through meaningful use of their own data. I use techniques such as screenshot-based analysis, self-reflection models, and metadata enriched with both visual and textual cues. I am also applying machine learning and large language models (LLMs) to adapt and improve user experiences based on individual needs.
@@ -15,11 +15,11 @@ You can learn more about my work through the projects and publications sections.
 
 
 ### Publications
-[Unpacking Task Management Tools, Values, and Worker Dynamics] (https://dl.acm.org/doi/abs/10.1145/3663384.3663402) (2024 CHIWORK Paper) <br/>
+[Unpacking Task Management Tools, Values, and Worker Dynamics](https://dl.acm.org/doi/abs/10.1145/3663384.3663402) (2024 CHIWORK Paper) <br/>
 
-[Investigating Characteristics of Media Recommendation Solicitation in r/ifyoulikeblank] (https://dl.acm.org/doi/abs/10.1145/3687041) (2024 CSCW Paper) <br/>
+[Investigating Characteristics of Media Recommendation Solicitation in r/ifyoulikeblank](https://dl.acm.org/doi/abs/10.1145/3687041) (2024 CSCW Paper) <br/>
 
-[Exploring the effectiveness of time-lapse screen recording for self-reflection in work context] (https://dl.acm.org/doi/full/10.1145/3613904.3642469) (2023 CHI Paper) <br/>
+[Exploring the effectiveness of time-lapse screen recording for self-reflection in work context](https://dl.acm.org/doi/full/10.1145/3613904.3642469) (2023 CHI Paper) <br/>
 
 [Context-aware sit-stand desk for promoting healthy and productive behaviors](https://dl.acm.org/doi/abs/10.1145/3586182.3616694) (2023 UIST Poster) <br/>
 
@@ -33,7 +33,7 @@ You can learn more about my work through the projects and publications sections.
 
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110) (2019 UIST Poster)<br/>
 
-[Using Screenshots as a Medium to Support Knowledge Workers' Productivity] (https://vtechworks.lib.vt.edu/items/357d2a31-f760-4471-9d6b-d3c2c636c6a2) (Ph.D.Thesis)
+[Using Screenshots as a Medium to Support Knowledge Workers' Productivity] (https://vtechworks.lib.vt.edu/items/357d2a31-f760-4471-9d6b-d3c2c636c6a2) (Ph.D. Thesis)
 
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master Thesis)
 
