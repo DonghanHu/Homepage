@@ -1,23 +1,27 @@
 
 ## Hello, welcome to my homepage!
 
-Looking for a full-time job in 2025.
+Looking for a full-time software engineer or researcher job in 2025.
 
 ### About Me
 
-Hi there, my name is Donghan Hu, a postdoc in the Electrical & Computer Engineering Dept and the Center for Urban Science + Progress at [New York University](https://engineering.nyu.edu/). I am working with Professor [Danny Yuxing Huang](https://mlab.cyber.nyu.edu/) at [mLab](https://mlab.engineering.nyu.edu/). I received my PhD and Master's degree in Computer Science in 2019 at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Sang Won Lee (https://people.cs.vt.edu/sangwonlee/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
+Hi there, my name is Donghan Hu, a software engineer at Finovax, a fintech research company focusing on financial data analysis and artificial intelligence applications. Previously, I was a Postdoctoral Research Scientist in the Electrical & Computer Engineering (ECE) Dept and the Center for Urban Science + Progress at [New York University](https://engineering.nyu.edu/), working with Professor [Danny Yuxing Huang](https://mlab.cyber.nyu.edu/) at [mLab](https://mlab.engineering.nyu.edu/). I received my PhD and Master's degree in Computer Science in 2024 and 2019 at [Virginia Tech](https://cs.vt.edu/), advised by Professor [Sang Won Lee](https://echolab.cs.vt.edu/). Before this, I received my bachelor's degree in Computer Science in 2017 at [Northeastern University](https://english.neu.edu.cn/) in Shenyang, China.
 
 
-My research focuses on Human-Computer/AI Interaction (HCAI), Personal Informatics, and Privacy & Security. I am currently working on projects that explore how personal data and network traffic (e.g., digital interactions across cross-platform devices) can be used to support knowledge workers—enhancing productivity, promoting self-awareness in mental and physical health, and enabling more personalized user experiences. A key aspect of my work involves empowering individuals through meaningful use of their own data. I use techniques such as screenshot-based analysis, self-reflection models, and metadata enriched with both visual and textual cues. I am also applying machine learning and large language models (LLMs) to adapt and enhance user experiences tailored to individual needs.
+I have designed and built end-to-end applications, developing both front-end interfaces and back-end systems, and deploying data-driven prototypes that bridge research ideas with production-ready engineering. My research focuses on Human-Computer/AI Interaction (HCAI), Personal Informatics, and Privacy & Trustworthy. I worked on projects that explore how personal data and network traffic (e.g., digital interactions across cross-platform devices) can be used to support knowledge workers—enhancing productivity, promoting self-awareness in mental and physical health, and enabling more personalized user experiences. A central theme of my work is empowering individuals through meaningful use of their own data. To this end, I develop systems that combine screenshot-based analysis, self-reflection models, and metadata enriched with visual and textual cues. More recently, I have been applying machine learning and large language models (LLMs) to adapt and personalize interactive systems to better fit users’ individual contexts and needs.
 
 You can learn more about my work through the projects and publications sections. For contact information, please scroll to the bottom of the page.<br/>
 
 
 
 ### Publications
-[PITCH: Designing Agentic Conversational Support for Planning and Self-reflection] (https://dl.acm.org/doi/full/10.1145/3719160.3736634) (2025 CUI Paper) <br/>
+[Assessing LLM Response Quality in the Context of Technology-Facilitated Abuse] (2026 USENIX Paper) <br/>
 
-[You Can Drive But You Cannot Hide: Detection of Hidden Cellular {GPS} Vehicle Trackers] (https://www.usenix.org/conference/vehiclesec25/presentation/satt) (VehicleSec'25) <br/>
+[Understanding the Context of Sit-Stand Desk Usage for Promoting Healthy and Productive Behaviors](https://journals.sagepub.com/doi/abs/10.1177/10711813251367013) (2025 HFES Poster) <br/>
+
+[PITCH: Designing Agentic Conversational Support for Planning and Self-reflection](https://dl.acm.org/doi/full/10.1145/3719160.3736634) (2025 CUI Paper) <br/>
+
+[You Can Drive, But You Cannot Hide: Detection of Hidden Cellular {GPS} Vehicle Trackers](https://www.usenix.org/conference/vehiclesec25/presentation/satt) (VehicleSec'25) <br/>
 
 [Unpacking Task Management Tools, Values, and Worker Dynamics](https://dl.acm.org/doi/abs/10.1145/3663384.3663402) (2024 CHIWORK Paper) <br/>
 
@@ -37,7 +41,7 @@ You can learn more about my work through the projects and publications sections.
 
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://dl.acm.org/citation.cfm?id=3357110) (2019 UIST Poster)<br/>
 
-[Using Screenshots as a Medium to Support Knowledge Workers' Productivity] (https://vtechworks.lib.vt.edu/items/357d2a31-f760-4471-9d6b-d3c2c636c6a2) (Ph.D. Thesis)
+[Using Screenshots as a Medium to Support Knowledge Workers' Productivity](https://vtechworks.lib.vt.edu/items/357d2a31-f760-4471-9d6b-d3c2c636c6a2) (Ph.D. Thesis)
 
 [ScreenTrack: Using Visual History for Self-tracking Computer Activities and Retrieving Working Context.](https://vtechworks.lib.vt.edu/handle/10919/91181?show=full) (Master's Thesis)
 
@@ -64,9 +68,9 @@ Modern users typically open multiple software programs, websites, and documents 
 ### Previous Experience
 **GTA & GRA** Virginia Tech. (2019 Aug - 2024 Aug)<br/>
 Graduate assistant for Network Architecture Programming (CS 4254), Fundamentals of Information Security (CS 5560), Intro to Programming in Python (CS1064), Intro GUI Programming/Graphics (CS3744), and Software Design & Data Structures (CS2114) <br/>
-Developed and tested applications to help modern knowledge workers enhance working productivity. Conducted in-lab & field studies to validate research contribution.<br/> 
+Developed and tested applications to help modern knowledge workers enhance productivity. Conducted in-lab & field studies to validate research contribution.<br/> 
 
-**Internship:** Social Smart IT Company. (2016 June - Aug) <br/>
+**Internship:** Social Smart Inc. (2016 June - Aug) <br/>
 Configured and deployed company servers for testing, running, and launching multiple services, as well as maintaining and troubleshooting server-related issues. Implemented data structures and solutions with higher-quality performance on the back end. Guided a team in designing and developing website frameworks tailored to meet company requirements. Scripted and programmed website user interfaces and customized functionalities for a global customer base. The newly launched website layout and content in Chinese and English contributed to a 13.6 % increase in daily visitors. <br/>
 
 SyncSo New York (2024 May - 2025 March) <br/>
