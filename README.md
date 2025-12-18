@@ -73,7 +73,7 @@ Developed and tested applications to help modern knowledge workers enhance produ
 **Internship:** Social Smart Inc. (2016 June - Aug) <br/>
 Configured and deployed company servers for testing, running, and launching multiple services, as well as maintaining and troubleshooting server-related issues. Implemented data structures and solutions with higher-quality performance on the back end. Guided a team in designing and developing website frameworks tailored to meet company requirements. Scripted and programmed website user interfaces and customized functionalities for a global customer base. The newly launched website layout and content in Chinese and English contributed to a 13.6 % increase in daily visitors. <br/>
 
-SyncSo New York (2024 May - 2025 March) <br/>
+**Internship:** SyncSo New York (2024 May - 2025 March) <br/>
 Designed and prototyped user-centric interfaces and interactive features for a social iOS app using Figma, focusing on Gen Z group dynamics and creating tailored social scenarios that enhanced connection and engagement. Developed robust UI components and interaction logic using React Native and Swift, writing efficient, reusable, and well-documented code that improved performance and maintained cross-platform consistency. Collaborated closely with cross-functional teams, including product managers and designers, to address UX challenges and implement new features; contributed to sprint planning, bug tracking, and feature testing to ensure timely delivery and high-quality releases. <br/>
 
 ### Personal Interests
